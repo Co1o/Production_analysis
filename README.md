@@ -2,7 +2,7 @@
 
 This portfolio project transforms a wide-format production planning workbook into an analytics-ready dataset used to evaluate manufacturing capacity utilization, production volatility, customer allocation, and short-term output forecasts.
 
-The repository is designed for **GitHub publication**. All identifying fields in the dataset have been anonymized, and only aggregated planning outputs are included.
+
 
 ## Project Goals
 - Convert a manually maintained scheduling workbook into a daily, line-level analytics dataset.
